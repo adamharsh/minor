@@ -1,1 +1,1 @@
-# minor
+# Minor Project ( Visualise Possible Disease Using Symptoms )
